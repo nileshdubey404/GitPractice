@@ -3,3 +3,7 @@
     padding: 0%;
     margin: 10%;
 }
+
+h1{
+    columns: blue;
+}
